@@ -16,6 +16,7 @@ $ npm run start
 ```
 
 ## TODOs
+- create a formal installer process, 
 - add a way to install the YNAB enhancement suite (may not be possible)
 - add icons
 - Linux build
